@@ -15,3 +15,11 @@ run with `npm`
 npm install express
 npm start
 ```
+
+## To do
+- [ ] deply bird sound classification model on identify page
+- [ ] enable audio upload
+
+## Contact
+Any questions or intension for cooperation, shoot me email at zz188@duke.edu  
+**Enjoy!**
