@@ -1,0 +1,16 @@
+{
+  "name": "appreciate-birds",
+  "version": "1.0.0",
+  "description": "webapp to appreciate birds",
+  "main": "server.js",
+  "scripts": {
+    "test": "node server.js",
+    "start": "node server.js"
+  },
+  "author": "ziang",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "require": "^2.4.20"
+  }
+}
